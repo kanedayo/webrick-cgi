@@ -1,8 +1,8 @@
 webrick-cgi
 ===========
 
-# WEBrick‚ğ‹N“®
+# WEBrickã‚’èµ·å‹•
 	$ ruby ht.rb
 
-# “®ìŠm”F
+# å‹•ä½œç¢ºèª
 	$ http://127.0.0.1:8080/index.cgi
